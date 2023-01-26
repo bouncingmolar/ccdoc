@@ -2,7 +2,7 @@
 Will execute the code inside it after certain time
 
 #### Usage: 
-`$setTimeout[time;file name (optional, default=$undefined));author (optional, default=$authorID)]`
+`$setTimeout[time;file name (optional, default=$undefined));author (optional, default=$authorID);return token (yes/no) (optional, default no)]`
 
 #### Example:
 <br/>
