@@ -17,7 +17,7 @@ $triggerExists[Token]
         true<br><br>
         </discord-message>
 </discord-messages>
-
+ 
 ### Example (not available trigger):
 <discord-messages>
           <discord-message :bot="false" role-color="#ffcc9a" author="Member">
